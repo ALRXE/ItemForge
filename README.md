@@ -18,25 +18,3 @@
 完整解压压缩包，双击 ProbablyStolenItemForge.exe，确认游戏目录后填写物品信息，保存到物品列表，最后点击“生成列表为一个 DLL”，DLL文件会自动存入游戏文件夹无须手动加入。
 
 注意：需要游戏已经安装并运行过 MelonLoader，生成或覆盖 DLL 前请完全退出游戏。
-
-Key Features:
-
-Supports Chinese names, English names, and custom item IDs\n
-Automatically converts and resizes common image formats
-Customizable inventory slot sizes
-Multiple item categories and stackable tags
-Supports food calories (kcal), feeder energy, and thirst restoration for drinks
-Supports vanilla medical-item effects
-Supports contraband levels and stolen-item heat from thief sources
-Automatically matches suppliers based on tags, with optional manual customer selection
-Save multiple items and compile them into a single DLL
-Automatic installation, registry-entry management, and item-pack uninstallation
-Automatically saves editing drafts
-How to Use:
-Extract the entire archive, then double-click
-
-ProbablyStolenItemForge.exe
-. Confirm the game directory, enter the item details, and save the items to the item list. Finally, click “Generate List as One DLL.”
-The generated DLL will be installed automatically into the game folder—no manual installation is required.
-Important:
-The game must already have MelonLoader installed and must have been launched at least once. Completely exit the game before generating or overwriting a DLL.
