@@ -20,7 +20,8 @@
 注意：需要游戏已经安装并运行过 MelonLoader，生成或覆盖 DLL 前请完全退出游戏。
 
 Key Features:
-Supports Chinese names, English names, and custom item IDs
+
+Supports Chinese names, English names, and custom item IDs\n
 Automatically converts and resizes common image formats
 Customizable inventory slot sizes
 Multiple item categories and stackable tags
@@ -31,7 +32,6 @@ Automatically matches suppliers based on tags, with optional manual customer sel
 Save multiple items and compile them into a single DLL
 Automatic installation, registry-entry management, and item-pack uninstallation
 Automatically saves editing drafts
-
 How to Use:
 Extract the entire archive, then double-click
 
