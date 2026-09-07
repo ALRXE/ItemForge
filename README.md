@@ -71,7 +71,7 @@ ProbablyStolenItemForgeRuntime.dll
 
 ---
 
-## 📥 安装方法
+## 安装方法
 
 将以下两个文件放入游戏的 `Mods` 文件夹：
 
