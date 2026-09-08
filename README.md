@@ -8,9 +8,7 @@ ItemForge 是一个可视化自定义物品制作工具。
 
 ---
 
-本工具可与 **CharacterForge** 搭配使用。
-
-[CharacterForge 下载地址](https://github.com/ALRXE/CharacterForge)
+本工具可与 **CharacterForge** 搭配使用。[CharacterForge 下载地址](https://github.com/ALRXE/CharacterForge)
 
 ---
 
