@@ -8,12 +8,17 @@ ItemForge 是一个可视化自定义物品制作工具。
 
 ---
 
-本工具可与物品工坊CharacterForge搭配使用
-[ItemForge 下载地址](https://github.com/ALRXE/CharacterForge)
+本工具可与 **CharacterForge** 搭配使用。
+
+[CharacterForge 下载地址](https://github.com/ALRXE/CharacterForge)
 
 ---
-自制mod：
-[GoFishing!](https://github.com/ALRXE/GoFishing) —— 给游戏加入一套简单完整的钓鱼玩法！本 Mod 共包含 13 个自定义物品。
+
+## 自制 Mod
+
+### [GoFishing!](https://github.com/ALRXE/GoFishing)
+
+给游戏加入一套简单完整的钓鱼玩法，目前共包含 **13 个自定义物品**。
 
 ---
 
@@ -30,7 +35,8 @@ ItemForge 是一个可视化自定义物品制作工具。
 * 支持工具拾荒加成与多个目标物品
 * 支持钓鱼 / 专属产出模式
 * 支持自定义加工配方
-* 一键安装，更新和卸载生成的物品包(当你生成一样id的物品包时会直接覆盖之前的物品包)
+* 一键安装、更新和卸载生成的物品包  
+  当生成相同 ID 的物品包时，会直接覆盖之前的物品包。
 
 ---
 
@@ -56,9 +62,3 @@ ItemForge 是一个可视化自定义物品制作工具。
 ```text
 PSItemPack_你的物品包名称.dll
 ProbablyStolenItemForgeRuntime.dll
-```
-
-接收者只需将两个 DLL 放入游戏的 `Mods` 文件夹并重启游戏，如果你制作了两个不同的物品包则需要给对方发送三个文件(两个物品包+runtime)
-
-**不需要安装 ItemForge 制作程序。**
-
