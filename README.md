@@ -8,9 +8,8 @@ ItemForge 是一个可视化自定义物品制作工具。
 
 ---
 
-本工具可与物品工坊ItemForge搭配使用
-https://discord.com/channels/1315752321975845004/1546405870647246918
-
+本工具可与物品工坊CharacterForge搭配使用
+[ItemForge 下载地址](https://github.com/ALRXE/ItemForge)
 ---
 
 ## 主要功能
