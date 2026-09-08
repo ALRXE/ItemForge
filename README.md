@@ -13,7 +13,7 @@ ItemForge 是一个可视化自定义物品制作工具。
 
 ---
 自制mod：
-## [GoFishing!]((https://github.com/ALRXE/GoFishing)) 给游戏加入一套简单完整的钓鱼玩法！本 Mod 共包含 13 个自定义物品
+[GoFishing!](https://github.com/ALRXE/GoFishing) —— 给游戏加入一套简单完整的钓鱼玩法！本 Mod 共包含 13 个自定义物品。
 
 ---
 
