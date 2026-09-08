@@ -12,7 +12,9 @@ ItemForge 是一个可视化自定义物品制作工具。
 [ItemForge 下载地址](https://github.com/ALRXE/CharacterForge)
 
 ---
-自制mod：[GoFishing！ 下载地址](https://github.com/ALRXE/GoFishing)
+自制mod：
+
+[GoFishing](https://github.com/ALRXE/GoFishing)
 ---
 
 ## 主要功能
