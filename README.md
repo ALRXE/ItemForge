@@ -62,31 +62,3 @@ ProbablyStolenItemForgeRuntime.dll
 
 **不需要安装 ItemForge 制作程序。**
 
----
-
-# 自制 Mod：去钓鱼！
-
-一个添加 **钓鱼、随机鱼重和鱼类加工玩法** 的物品 Mod。
-
-## 玩法说明
-
-携带 **钓鱼竿** 外出拾荒，即可随机获得 **小黄鱼** 或 **大黄鱼**。
-
-将 **生锈的片肉刀** 拖到 **大黄鱼** 上，可以把它加工成鱼肉。
-
-例如：
-
-> 一条重 **2 kg** 的大黄鱼，按 **60% 出肉率** 加工后，会得到一份约 **1.2 kg** 的鱼肉。
-
----
-
-## 安装方法
-
-将以下两个文件放入游戏的 `Mods` 文件夹：
-
-```text
-PSItemPack_Gofishing.dll
-ProbablyStolenItemForgeRuntime.dll
-```
-
-安装完成后重启游戏即可。
