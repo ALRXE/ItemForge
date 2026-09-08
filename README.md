@@ -14,7 +14,7 @@ ItemForge 是一个可视化自定义物品制作工具。
 ---
 自制mod：
 
-[GoFishing](https://github.com/ALRXE/GoFishing)
+[GoFishing！](https://github.com/ALRXE/GoFishing)
 ---
 
 ## 主要功能
